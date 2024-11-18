@@ -95,4 +95,8 @@ In this step, we will configure Client-1 to allow non-admin domain users to acce
 <img width="1198" alt="Screenshot 2024-11-18 at 5 31 00 PM" src="https://github.com/user-attachments/assets/56065988-0abf-4c02-b941-c6cc9b4602c2">
 </p>
 
+<p>
+<img width="454" alt="Screenshot 2024-11-18 at 5 47 56 PM" src="https://github.com/user-attachments/assets/ad6c3a0a-f39d-4dd9-8ef5-359edf10684d">
+</p>
+
 
