@@ -197,3 +197,5 @@ Certainly! Below is a professional, step-by-step guide for logging into Client 1
 <img width="755" alt="Screenshot 2024-11-18 at 10 06 07 PM" src="https://github.com/user-attachments/assets/00950957-3ef1-443b-aa34-2e2e3f41d4e0">
 
 <img width="441" alt="Screenshot 2024-11-18 at 10 10 55 PM" src="https://github.com/user-attachments/assets/755f91d6-7c30-4d64-af67-03e4244a070c">
+
+In this lab, we deployed Microsoft Azure Virtual Machines running Windows Server 2022 and Windows 10 Pro, and configured Active Directory Domain Services to centrally manage user accounts. We enabled Remote Desktop Protocol (RDP) access on Client-1 for non-administrative domain users and automated the creation of 1,000 domain user accounts using a PowerShell script. Finally, we validated the setup by logging into Client-1 with the newly created user accounts to ensure proper access and permissions.
