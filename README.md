@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
-Creating-users-with-powershell
+<h1>Creating-users-with-powershell</h1>
 Using PowerShell to streamline and automate domain administration.
 
 <h2>Environments and Technologies Used</h2>
