@@ -2,7 +2,9 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 <h1>Creating-users-with-powershell</h1>
-Using PowerShell to streamline and automate domain administration.
+<p>
+In this lab, we configured Client-1 to allow non-admin domain users to log in via Remote Desktop Protocol (RDP) and created multiple domain user accounts using PowerShell.
+</p>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,9 +18,6 @@ Using PowerShell to streamline and automate domain administration.
 - Windows 10 Pro (21H2)
 
 <h2>Deployment Steps</h2>
-<p>
-In this lab, we configured Client-1 to allow non-admin domain users to log in via Remote Desktop Protocol (RDP) and created multiple domain user accounts using PowerShell.
-</p>
 
  **Configuring RDP Access for Domain Users and Creating Users via PowerShell**
 
