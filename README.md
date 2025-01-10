@@ -21,8 +21,6 @@ In this lab, we configured Client-1 to allow non-admin domain users to log in vi
 
  **Configuring RDP Access for Domain Users and Creating Users via PowerShell**
 
-**Configuring Remote Desktop Access for Domain Users on Client-1**
-
 In this step, we will configure Client-1 to allow non-admin domain users to access it via Remote Desktop Protocol (RDP). This setup ensures that regular domain users can remotely access Client-1 without requiring administrative privileges.
 
 ### **Steps:**
