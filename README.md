@@ -19,7 +19,7 @@ In this lab, we configured Client-1 to allow non-admin domain users to log in vi
 
 <h2>Deployment Steps</h2>
 
- **Configuring RDP Access for Domain Users and Creating Users via PowerShell**
+ **&#9312;Configuring RDP Access for Domain Users and Creating Users via PowerShell**
 
 In this step, we will configure Client-1 to allow non-admin domain users to access it via Remote Desktop Protocol (RDP). This setup ensures that regular domain users can remotely access Client-1 without requiring administrative privileges.
 
@@ -96,10 +96,7 @@ In this step, we will configure Client-1 to allow non-admin domain users to acce
 <img width="454" alt="Screenshot 2024-11-18 at 5 47 56 PM" src="https://github.com/user-attachments/assets/ad6c3a0a-f39d-4dd9-8ef5-359edf10684d">
 </p>
 
-
-
-
-**Creating Multiple Domain Users via PowerShell**
+**&#9313;Creating Multiple Domain Users via PowerShell**
 
 In this step, we will create multiple user accounts within Active Directory using PowerShell on our domain controller (DC-1). This process involves logging into DC-1 as an administrator, utilizing PowerShell ISE to run a script that generates 1,000 users with random names.
 
@@ -157,9 +154,7 @@ In this step, we will create multiple user accounts within Active Directory usin
 </p>
 Certainly! Below is a professional, step-by-step guide for logging into Client 1 using one of the newly created user accounts.
 
----
-
-### **Procedure to Log into Client 1 with a New User Account**
+ **&#9314;Procedure to Log into Client 1 with a New User Account**
 
 1. **Verify User Setup**
    - Ensure that the new user accounts have been successfully created by reviewing the setup script.
