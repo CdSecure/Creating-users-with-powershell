@@ -152,7 +152,6 @@ In this step, we will create multiple user accounts within Active Directory usin
 <p>
 <img width="1800" alt="Screenshot 2024-11-18 at 9 18 10 PM" src="https://github.com/user-attachments/assets/fecb8ae3-050e-48ad-be2d-7885fcd28028">
 </p>
-Certainly! Below is a professional, step-by-step guide for logging into Client 1 using one of the newly created user accounts.
 
  **&#9314;Procedure to Log into Client 1 with a New User Account**
 
